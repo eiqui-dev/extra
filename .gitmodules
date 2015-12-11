@@ -10,3 +10,6 @@
 [submodule "serviciosbaeza-odoo-addons"]
 	path = serviciosbaeza-odoo-addons
 	url = https://github.com/eiqui-dev/serviciosbaeza-odoo-addons.git
+[submodule "eiqui"]
+	path = eiqui
+	url = https://github.com/eiqui-dev/eiqui.git
