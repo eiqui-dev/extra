@@ -1,0 +1,12 @@
+[submodule "odoo-addons"]
+	path = odoo-addons
+	url = https://github.com/eiqui-dev/odoo-addons.git
+[submodule "acsone-addons"]
+	path = acsone-addons
+	url = https://github.com/eiqui-dev/acsone-addons.git
+[submodule "odoomrp-wip"]
+	path = odoomrp-wip
+	url = https://github.com/eiqui-dev/odoomrp-wip.git
+[submodule "serviciosbaeza-odoo-addons"]
+	path = serviciosbaeza-odoo-addons
+	url = https://github.com/eiqui-dev/serviciosbaeza-odoo-addons.git
