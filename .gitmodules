@@ -13,3 +13,6 @@
 [submodule "eiqui"]
 	path = eiqui
 	url = https://github.com/eiqui-dev/eiqui.git
+[submodule "odoomrp-utils"]
+	path = odoomrp-utils
+	url = https://github.com/eiqui-dev/odoomrp-utils.git
