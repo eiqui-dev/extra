@@ -16,3 +16,6 @@
 [submodule "odoomrp-utils"]
 	path = odoomrp-utils
 	url = https://github.com/eiqui-dev/odoomrp-utils.git
+[submodule "website_recaptcha"]
+	path = website_recaptcha
+	url = https://github.com/eiqui-dev/website_recaptcha.git
