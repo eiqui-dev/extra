@@ -16,7 +16,3 @@
 [submodule "odoomrp-utils"]
 	path = odoomrp-utils
 	url = https://github.com/eiqui-dev/odoomrp-utils.git
-[submodule "website_recaptcha"]
-	path = website_recaptcha
-	url = http://github.com/techreceptives/website_recaptcha.git
-	branch = 8.0
